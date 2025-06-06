@@ -20,10 +20,10 @@ A responsive pricing panel built using HTML and CSS. This project is designed to
 
 ## 📁 Folder Structure
 
-<pre><code>``` pricing-panel/ 
+<pre><code>pricing-panel/ 
    ├── index.html 
    ├── style.css 
-   └── icons/ ``` </code></pre>
+   └── icons/ </code></pre>
 
 ## 💡 Usage
 
